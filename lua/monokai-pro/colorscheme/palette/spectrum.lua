@@ -2,7 +2,7 @@
 return {
   dark2 = "#131313",
   dark1 = "#191919",
-  background = "#011910",
+  background = "#000000",
   text = "#f7f1ff",
   accent1 = "#ff3f4f",
   accent2 = "#ff9700",
