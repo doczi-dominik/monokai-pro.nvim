@@ -10,7 +10,7 @@ return {
   accent4 = "#4ade80",
   accent5 = "#19d1e5",
   accent6 = "#e373ce",
-  dimmed1 = "#2e3d38",
+  dimmed1 = "#5b7670",
   dimmed2 = "#7a8f89",
   dimmed3 = "#38504b",
   dimmed4 = "#5b7670",
